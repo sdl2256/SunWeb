@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basecontroller/basecontroller.iml" filepath="$PROJECT_DIR$/basecontroller/basecontroller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basedao/basedao.iml" filepath="$PROJECT_DIR$/basedao/basedao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basemodel/basemodel.iml" filepath="$PROJECT_DIR$/basemodel/basemodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseservice/baseservice.iml" filepath="$PROJECT_DIR$/baseservice/baseservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulemanager/modulemanager.iml" filepath="$PROJECT_DIR$/modulemanager/modulemanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp/webapp.iml" filepath="$PROJECT_DIR$/webapp/webapp.iml" />
+    </modules>
+  </component>
+</project>
